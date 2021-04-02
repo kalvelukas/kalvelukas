@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalvelukas
-- 👀 I’m interested in building IT
+- 👀 I’m interested in Buildings and IT
 - 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on nice projects
 - 📫 How to reach me: twitter or instagram
